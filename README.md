@@ -17,3 +17,13 @@ index.html was created. to commit use 'git commit -m "message" '
         the following was used: git commit -m "Added index.html & updated README" -m "description"
 
         4th
+
+## Local Development (Feature 01)
+    --checking to see if another branch was made.
+1. git line commands
+        git checkout -b brachNAME   //Creates a new branch
+        git checkout main       // changes back to main branch, can replace main with another branch name 
+        git diff branchNAME     //sees the difference between branchs with your main branch
+        git merge branchNAME    //merges the branches together
+        
+
