@@ -17,3 +17,7 @@ index.html was created. to commit use 'git commit -m "message" '
         the following was used: git commit -m "Added index.html & updated README" -m "description"
 
         4th
+
+## Local Developmet (Feature 01)
+    --checking to see if another branch was made.
+1. open index.html in your browser
