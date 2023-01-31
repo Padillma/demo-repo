@@ -28,3 +28,6 @@ index.html was created. to commit use 'git commit -m "message" '
         git branch -d branchNAME //Deletes the branch
         git commit -am "commit name"    // adds and commits only works formodified files
 
+## Undoing
+    -- undoing adds and commits
+    
