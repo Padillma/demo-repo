@@ -15,3 +15,5 @@ index.html was created. to commit use 'git commit -m "message" '
     -- -m stands for message and commits need message, usually for why changes were made
         also you can add another -m for a description on github
         the following was used: git commit -m "Added index.html & updated README" -m "description"
+
+        4th
