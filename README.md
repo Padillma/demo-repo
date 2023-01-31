@@ -30,4 +30,11 @@ index.html was created. to commit use 'git commit -m "message" '
 
 ## Undoing
     -- undoing adds and commits
-    
+
+1. git line commands
+
+git reset fileNAME        // resets the staged files (files that were done with git add). you can also just use "git reset " for entire repo
+git reset HEAD~1          // HEAD points to the last commit so ~1 point to one futher so it forgets the last commit
+git log                 // shows your commits
+git reset (commit ##)   // each commit has a unique #, you can rest up to that point, this just stages everything from git, changes will sill be on editior
+git reset --hard (commit ##)    // this unstages but also completely removes upto that commit ##
