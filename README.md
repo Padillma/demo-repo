@@ -25,5 +25,6 @@ index.html was created. to commit use 'git commit -m "message" '
         git checkout main       // changes back to main branch, can replace main with another branch name 
         git diff branchNAME     //sees the difference between branchs with your main branch
         git merge branchNAME    //merges the branches together
-        
+        git branch -d branchNAME //Deletes the branch
+        git commit -am "commit name"    // adds and commits only works formodified files
 
